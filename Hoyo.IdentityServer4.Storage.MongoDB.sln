@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoyo.IdentityServer4.Storage.MongoDB", "Hoyo.IdentityServer4.Storage.MongoDB\Hoyo.IdentityServer4.Storage.MongoDB.csproj", "{D7210B18-C049-4B86-A503-6268D64B6CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7210B18-C049-4B86-A503-6268D64B6CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7210B18-C049-4B86-A503-6268D64B6CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7210B18-C049-4B86-A503-6268D64B6CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7210B18-C049-4B86-A503-6268D64B6CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A4E693-91AF-4A3B-A769-A1F30D4E528B}
+	EndGlobalSection
+EndGlobal

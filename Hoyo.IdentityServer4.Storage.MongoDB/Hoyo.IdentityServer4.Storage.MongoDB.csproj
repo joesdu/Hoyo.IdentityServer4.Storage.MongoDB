@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net6.0;net7.0</TargetFrameworks>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<LangVersion>preview</LangVersion>
+		<Version>1.1.4</Version>
+		<Authors>joesdu</Authors>
+		<RepositoryUrl>https://github.com/joesdu/Hoyo.IdentityServer4.Storage.MongoDB</RepositoryUrl>
+		<PackageProjectUrl>https://www.nuget.org/packages/Hoyo.IdentityServer4.Storage.MongoDB</PackageProjectUrl>
+		<Description>支持IdentityServer4 MongoDB持久化,推荐升级ids6,并更新本库到Hoyo.IdentityServer.Storage.MongoDB</Description>
+		<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+		<PackageLicenseFile>LICENSE</PackageLicenseFile>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include=".\README.md" Pack="true" PackagePath="" />
+		<None Include="..\LICENSE" Pack="true" PackagePath="" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="IdentityServer4" Version="4.1.2" />
+		<PackageReference Include="MongoDB.Driver" Version="2.18.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+	</ItemGroup>
+
+</Project>
