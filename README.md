@@ -1,7 +1,5 @@
 ### Hoyo
 
-[![image](my-dotnet-bot-mod.png)](https://mod-dotnet-bot.net)
-
 [![LICENSE](https://img.shields.io/github/license/joesdu/Hoyo.IdentityServer4.Storage.MongoDB)](https://img.shields.io/github/license/joesdu/Hoyo.IdentityServer4.Storage.MongoDB)
 [![ISSUES](https://img.shields.io/github/issues/joesdu/Hoyo.IdentityServer4.Storage.MongoDB)](https://img.shields.io/github/issues/joesdu/Hoyo.IdentityServer4.Storage.MongoDB)
 [![FORKS](https://img.shields.io/github/forks/joesdu/Hoyo.IdentityServer4.Storage.MongoDB)](https://img.shields.io/github/forks/joesdu/Hoyo.IdentityServer4.Storage.MongoDB)
@@ -15,3 +13,7 @@
 | NuGet Package | Version | Download | Description |
 | ------------- | ------- | -------- | ----------- |
 | [Hoyo.IdentityServer4.Storage.MongoDB](https://www.nuget.org/packages/Hoyo.IdentityServer4.Storage.MongoDB/) | ![Nuget](https://img.shields.io/nuget/v/Hoyo.IdentityServer4.Storage.MongoDB) | ![Nuget](https://img.shields.io/nuget/dt/Hoyo.IdentityServer4.Storage.MongoDB) | IDS4.x的Mongodb持久化支持方案 |
+
+<p align="center"> 
+  <img src="https://github.com/joesdu/joesdu/blob/main/wechat-official-account.png" />
+</p>
